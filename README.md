@@ -15,6 +15,9 @@ you will need your api token from botfather bot , and chat id which you can get 
 
 you can turn of telegram its not a must to have online but handy if you want notifications to ur mobile or discord on mobile.
 
+input your pool and port into proxy then click generate 
+copy the ip and port and paste that into your miner in pool and port click save and run :)
+
 works with gminer 3.27 , lolminer 1.66 & T-Rex 0.26.8
 
 results for connecting to k1pool is 14ms and 12ms when mining ethereumpow and ethereumfair same with bitcoingold
