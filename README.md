@@ -29,6 +29,8 @@ ethash , Etchash , Equihash 144,5 , Autolykos2 & Firo , will add code for kHeavy
 
 Please Remember i am not responsible for any issues you may incur i will provide as much help as i can with runnign the software and hope you appreciate the work i have put in and lastly if you want to donate
 
+p.s if your windows defender does triger please turn off , re download the .exe then add exception to file then turn av back on 
+
 Btc 1HMBsp4mm7BAiLauVCsjNJnwR5JZrs31Li
 Eth 0x36090957b4df580a658a63510b597b40181b8989
 Ltc LQRQXjo66754obFogCtVcYeHkK15XPg3t8
